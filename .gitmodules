@@ -1,7 +1,3 @@
-[submodule "frontend/src/fi/hg/core"]
-	path = frontend/src/fi/hg/core
-	url = git@github.com:heusalagroup/fi.hg.core.git
-	branch = main
 [submodule "frontend/src/fi/sendanor/hyperstack"]
 	path = frontend/src/fi/sendanor/hyperstack
 	url = git@github.com:sendanor/fi.sendanor.hyperstack.git
@@ -9,6 +5,10 @@
 [submodule "frontend/src/fi/sendanor/hyperapp"]
 	path = frontend/src/fi/sendanor/hyperapp
 	url = git@github.com:sendanor/fi.sendanor.hyperapp.git
+	branch = main
+[submodule "frontend/src/fi/hg/core"]
+	path = frontend/src/fi/hg/core
+	url = git@github.com:heusalagroup/fi.hg.core.git
 	branch = main
 [submodule "frontend/src/fi/hg/frontend"]
 	path = frontend/src/fi/hg/frontend
